@@ -1,5 +1,3 @@
-[TOC]
-
 # 第0章	前言
 
 ​	为什么要叫“第0章”呢？
@@ -10,8 +8,6 @@
 
 - https://fatiherikli.github.io/brainfuck-visualizer/
   - Github上的一个Brainfuck程序**可视化**在线编辑器。
-
-
 - http://files.cnblogs.com/icejoywoo/DBFI.zip
   - 这是一个免费的Brainfuck编译器，还带有许多的例子。
 - http://4mhz.de/bfdev.html
